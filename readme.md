@@ -5,8 +5,11 @@
 This is a an application implementing some basic functionality of a GraphQl in nodejs using Apollo server
 
 You can find more information about GraphQL here: https://graphql.org/
+
 You can find more information about Apollo here: https://www.apollographql.com/docs/
+
 You can find more information about Apollo Server here: https://github.com/apollographql/apollo-server
+
 You can find more information about Apollo Server for express here: https://www.apollographql.com/docs/apollo-server/integrations/middleware/
 
 ## Features
